@@ -1,0 +1,1 @@
+A quickly implemented re-organization algorithm that takes a .txt file containing a json-like object (I specifically designed this for long excel functions) and inserts line-breaks and tabs to make it readable
